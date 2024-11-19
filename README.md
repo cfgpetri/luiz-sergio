@@ -6,4 +6,4 @@ Primeiro site baseado no site **G1**.
 ***
 -[] criar repositorio
 -[] criar projeto vscode
--[] comitar git e github
+[] comitar git e github
