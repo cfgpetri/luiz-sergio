@@ -15,6 +15,7 @@ número | nome
 
 
 ***
-![foto chai](https://github.com/user-attachments/assets/a19c2906-69ad-4ed5-ae07-c349289811a5)
+
 
 [Acesse meu GitHub] ([https://github.com/cfgpetri/main/README.md](https://github.com/cfgpetri))
+💋
