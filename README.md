@@ -8,7 +8,7 @@ Primeiro site baseado no site **G1**.
 - [ ] criar projeto vscode
 - [ ] comitar git e github
 ***
-número | nome
+numero | nome
 ---|---|
 1|Chai
 
